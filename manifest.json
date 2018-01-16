@@ -1,0 +1,13 @@
+{
+"name": "Tovli",
+"short_name": "TovliWeb",
+"start_url": ".",
+"display": "standalone",
+"background_color": "#f00",
+"description": "Feel better today",
+"icons": [{
+   "src": "img/logo.png",
+   "sizes": "48x48",
+   "type": "image/png"
+}]
+}
